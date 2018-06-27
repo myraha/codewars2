@@ -6,5 +6,5 @@
 //But can you do it in 1 line of code and without any conditionals?
 
 function opposite(number) {
-  return(number * -number)
+  return(number * -1)
 }
